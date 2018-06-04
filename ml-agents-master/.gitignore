@@ -44,7 +44,7 @@ python/summaries
 *.apk
 *.unitypackage
 *.app
-*.exe
+# *.exe
 *.x86_64
 *.x86
 
